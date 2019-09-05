@@ -1,7 +1,7 @@
 publisher: joaompinto
 apiVersion: v2
 id: joaompinto.asciidoctor-vscode
-version: 2.7.6
+version: latest
 type: VS Code extension
 name: AsciiDoctor
 title: AsciiDoctor
