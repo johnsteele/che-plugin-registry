@@ -3,7 +3,7 @@ apiVersion: v2
 id: joaompinto.asciidoctor-vscode
 version: 2.7.5
 type: VS Code extension
-name: AsciiDoctor
+name: asciidoctor-vscode
 title: AsciiDoctor
 description: AsciiDoc Support, and code browsing https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
